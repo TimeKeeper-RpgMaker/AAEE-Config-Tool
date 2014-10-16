@@ -1,0 +1,44 @@
+c:\users\raphaël\documents\visual studio 2013\Projects\AAEE\AAEE\bin\Debug\AAEE.exe
+c:\users\raphaël\documents\visual studio 2013\Projects\AAEE\AAEE\bin\Debug\AAEE.pdb
+c:\users\raphaël\documents\visual studio 2013\Projects\AAEE\AAEE\obj\Debug\AAEE.csprojResolveAssemblyReference.cache
+c:\users\raphaël\documents\visual studio 2013\Projects\AAEE\AAEE\obj\Debug\MainWindow.baml
+c:\users\raphaël\documents\visual studio 2013\Projects\AAEE\AAEE\obj\Debug\MainWindow.g.cs
+c:\users\raphaël\documents\visual studio 2013\Projects\AAEE\AAEE\obj\Debug\App.g.cs
+c:\users\raphaël\documents\visual studio 2013\Projects\AAEE\AAEE\obj\Debug\AAEE_MarkupCompile.cache
+c:\users\raphaël\documents\visual studio 2013\Projects\AAEE\AAEE\obj\Debug\AAEE.g.resources
+c:\users\raphaël\documents\visual studio 2013\Projects\AAEE\AAEE\obj\Debug\AAEE.Properties.Resources.resources
+c:\users\raphaël\documents\visual studio 2013\Projects\AAEE\AAEE\obj\Debug\AAEE.csproj.GenerateResource.Cache
+c:\users\raphaël\documents\visual studio 2013\Projects\AAEE\AAEE\obj\Debug\AAEE.exe
+c:\users\raphaël\documents\visual studio 2013\Projects\AAEE\AAEE\obj\Debug\AAEE.pdb
+C:\Users\Raphaël\Documents\Visual Studio 2013\Projects\AAEE\AAEE\obj\Debug\Windows\General\win_G_AddEquipType.baml
+C:\Users\Raphaël\Documents\Visual Studio 2013\Projects\AAEE\AAEE\obj\Debug\Windows\General\win_G_AddEquipType.g.cs
+C:\Users\Raphaël\Desktop\AAEE\AAEE\obj\Debug\AAEE.exe
+C:\Users\Raphaël\Desktop\AAEE\AAEE\obj\Debug\AAEE.pdb
+C:\Users\Raphaël\Desktop\AAEE\AAEE\obj\Debug\AAEE.csprojResolveAssemblyReference.cache
+C:\Users\Raphaël\Desktop\AAEE\AAEE\obj\Debug\MainWindow.baml
+C:\Users\Raphaël\Desktop\AAEE\AAEE\obj\Debug\Windows\General\win_G_AddEquipType.baml
+C:\Users\Raphaël\Desktop\AAEE\AAEE\obj\Debug\MainWindow.g.cs
+C:\Users\Raphaël\Desktop\AAEE\AAEE\obj\Debug\Windows\General\win_G_AddEquipType.g.cs
+C:\Users\Raphaël\Desktop\AAEE\AAEE\obj\Debug\App.g.cs
+C:\Users\Raphaël\Desktop\AAEE\AAEE\obj\Debug\AAEE_MarkupCompile.cache
+C:\Users\Raphaël\Desktop\AAEE\AAEE\obj\Debug\AAEE.g.resources
+C:\Users\Raphaël\Desktop\AAEE\AAEE\obj\Debug\AAEE.Properties.Resources.resources
+C:\Users\Raphaël\Desktop\AAEE\AAEE\obj\Debug\AAEE.csproj.GenerateResource.Cache
+C:\Users\Raphaël\Desktop\AAEE\AAEE\bin\Debug\AAEE.exe
+C:\Users\Raphaël\Desktop\AAEE\AAEE\bin\Debug\AAEE.pdb
+C:\Users\Raphaël\Dropbox\Visual Studio Project\AAEE\AAEE\obj\Debug\AAEE.exe
+C:\Users\Raphaël\Dropbox\Visual Studio Project\AAEE\AAEE\obj\Debug\AAEE.pdb
+C:\Users\Raphaël\Dropbox\Visual Studio Project\AAEE\AAEE\obj\Debug\AAEE.csprojResolveAssemblyReference.cache
+C:\Users\Raphaël\Dropbox\Visual Studio Project\AAEE\AAEE\obj\Debug\MainWindow.baml
+C:\Users\Raphaël\Dropbox\Visual Studio Project\AAEE\AAEE\obj\Debug\MainWindow.g.cs
+C:\Users\Raphaël\Dropbox\Visual Studio Project\AAEE\AAEE\obj\Debug\App.g.cs
+C:\Users\Raphaël\Dropbox\Visual Studio Project\AAEE\AAEE\obj\Debug\AAEE_MarkupCompile.cache
+C:\Users\Raphaël\Dropbox\Visual Studio Project\AAEE\AAEE\obj\Debug\AAEE.g.resources
+C:\Users\Raphaël\Dropbox\Visual Studio Project\AAEE\AAEE\obj\Debug\AAEE.Properties.Resources.resources
+C:\Users\Raphaël\Dropbox\Visual Studio Project\AAEE\AAEE\obj\Debug\AAEE.csproj.GenerateResource.Cache
+C:\Users\Raphaël\Dropbox\Visual Studio Project\AAEE\AAEE\bin\Debug\AAEE.exe
+C:\Users\Raphaël\Dropbox\Visual Studio Project\AAEE\AAEE\bin\Debug\AAEE.pdb
+C:\Users\Raphaël\Dropbox\Visual Studio Project\AAEE\AAEE\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Raphaël\Dropbox\Visual Studio Project\AAEE\AAEE\obj\Debug\AAEE_MarkupCompile.lref
+C:\Users\Raphaël\Dropbox\Visual Studio Project\AAEE\AAEE\obj\Debug\Windows\AboutWindow.baml
+C:\Users\Raphaël\Dropbox\Visual Studio Project\AAEE\AAEE\obj\Debug\Windows\AboutWindow.g.cs
